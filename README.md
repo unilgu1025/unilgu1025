@@ -1,13 +1,7 @@
 # 👋 Abocado
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=230&section=header&text=TAEYEON%20AI%20INTERFACE&fontSize=38&fontColor=00F7FF&animation=fadeIn&desc=PM%20%7C%20DATA%20%7C%20VISION&descAlignY=70"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=System+Online...;Building+for+People;Data+Driven+Thinking)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Building+for+People;Data+Driven+PM;God+First+✝️)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=PM+%2F+Data;Serving+People+Through+Tech;God+First+✝️)
-
+<img src="https://raw.githubusercontent.com/아이디/레포/main/hud.png" width="100%"/>
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 
 🙏 사람을 살리는 기획을 꿈꾸는 PM  
