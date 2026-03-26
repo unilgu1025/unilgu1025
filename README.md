@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ4NWNneXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12jifp7YHqTgS4/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwNHh4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/OAgR2xol997jy/giphy.gif" width="450">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td>
       <h3>🙏 사람을 살리는 기획을 꿈꾸는 PM</h3>
       <h3>📊 데이터로 가치를 만드는 사람</h3>
       <h3>🦇 보이지 않는 곳에서도 방향을 만드는 기획자</h3>
