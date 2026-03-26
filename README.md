@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Taeyeon
 
-<!--
-**unilgu1025/unilgu1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙏 사람을 살리는 기획을 꿈꾸는 PM  
+📊 데이터로 가치를 만드는 사람  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+- PM / Product 기획 관심
+- 데이터 기반 의사결정
+- 사람에게 따뜻함을 주는 서비스 지향
+
+---
+
+## 🚀 Vision
+"기술로 사람을 돕고, 따뜻함을 남기는 기획자"
