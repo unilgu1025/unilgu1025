@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=260&section=header&text=TAEYEON&fontSize=45&fontColor=FFD700&animation=fadeIn&desc=PM%20%7C%20DATA%20%7C%20VISION&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,100:1a1a1a&height=140&text=TAEYEON&animation=scaleIn&fontColor=FFD700&fontSize=50" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:000000&height=120&section=header"/>
 
