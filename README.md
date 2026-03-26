@@ -1,25 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&text=UNILGU1025%20:%20MISSION%20STARTED&fontSize=40&fontColor=FFD700&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=UNILGU1025%20:%20MISSION%20STARTED&fontSize=35&fontColor=FFD700&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXh6bm5xeXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaUvLA9q/giphy.gif" width="180">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ4NWNneXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12jifp7YHqTgS4/giphy.gif" width="400">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=HERO+SYSTEM+ONLINE...;ANALYZING+DATA+VALUES...;CREATING+FOR+PEOPLE;TRACKING+VISION" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=HERO+SYSTEM+ONLINE...;DATA+POWER+CHARGING...;CREATING+VALUE+FOR+PEOPLE" />
 </p>
 
 ---
 
-## ⚡ Current Status: Strategic Hero
+## ⚡ Hero's Profile: Strategic PM
 
 <table>
   <tr>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXh6bm5xeXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12jifp7YHqTgS4/giphy.gif" width="100%" />
-    </td>
-    <td width="60%">
+    <td width="100%">
       <h3>🙏 사람을 살리는 기획을 꿈꾸는 PM</h3>
       <h3>📊 데이터로 가치를 만드는 사람</h3>
       <h3>🦇 보이지 않는 곳에서도 방향을 만드는 기획자</h3>
@@ -42,6 +39,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unilgu1025&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unilgu1025&layout=compact&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true" />
 </p>
