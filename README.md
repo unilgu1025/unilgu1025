@@ -1,5 +1,10 @@
 # 👋 Abocado
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=🤖%20TAEYEON%20%7C%20PM%20%2B%20DATA&fontSize=38&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Building+for+People;Data+Driven+PM;God+First+✝️)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=PM+%2F+Data;Serving+People+Through+Tech;God+First+✝️)
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
