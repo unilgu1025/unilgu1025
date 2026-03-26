@@ -1,8 +1,9 @@
 # 👋 Abocado
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=🤖%20TAEYEON%20%7C%20PM%20%2B%20DATA&fontSize=38&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=230&section=header&text=TAEYEON%20AI%20INTERFACE&fontSize=38&fontColor=00F7FF&animation=fadeIn&desc=PM%20%7C%20DATA%20%7C%20VISION&descAlignY=70"/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=System+Online...;Building+for+People;Data+Driven+Thinking)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Building+for+People;Data+Driven+PM;God+First+✝️)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=PM+%2F+Data;Serving+People+Through+Tech;God+First+✝️)
