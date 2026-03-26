@@ -1,8 +1,7 @@
 # 👋 Abocado
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=230&section=header&text=TAEYEON%20AI%20INTERFACE&fontSize=38&fontColor=00F7FF&animation=fadeIn&desc=PM%20%7C%20DATA%20%7C%20VISION&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=TAEYEON%20SYSTEM&fontSize=40&fontColor=00F7FF&animation=twinkling&desc=Initializing...%20PM%20Mode&descAlignY=70"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=System+Online...;Building+for+People;Data+Driven+Thinking)
 🙏 사람을 살리는 기획을 꿈꾸는 PM  
 📊 데이터로 가치를 만드는 사람  
 
